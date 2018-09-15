@@ -1,0 +1,9 @@
+TODO list :
+	- Ajouter la gestion des paramètres en ligne de commande
+	- Réorganiser les updates pour optimiser les temps de calcul
+	- Ajouter mon top personnel en haut
+	- Ajouter la connection par un membre bot
+	- Ajouter la dernière activité
+	- RootMeRanking
+	- RootMeStats
+
