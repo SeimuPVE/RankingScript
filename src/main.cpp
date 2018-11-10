@@ -1,5 +1,5 @@
 #include <iostream>
-#include "RankingPrinter.h"
+#include "ranking/RankingPrinter.h"
 
 
 int main() {

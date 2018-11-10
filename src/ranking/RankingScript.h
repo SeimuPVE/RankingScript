@@ -7,8 +7,8 @@
 
 #include <string>
 
-#include "NewbieContestRanking.h"
-#include "ConfigReader.h"
+#include "../newbiecontest/NewbieContestRanking.h"
+#include "../config/ConfigReader.h"
 
 
 class RankingScript {
